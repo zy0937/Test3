@@ -1,0 +1,17 @@
+2023-01-07 08:29:14,394 Initializing dataset ObjectNav-v1
+2023-01-07 08:29:14,425 initializing sim Sim-v0
+[08:29:14:518592]:[Assets] ResourceManager.cpp(345)::loadSemanticSceneDescriptor : SSD File Naming Issue! Neither SceneInstanceAttributes-provided name : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.scn  nor constructed filename : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/info_semantic.json exist on disk.
+[08:29:16:695776]:[Sim] Simulator.cpp(464)::instanceStageForSceneAttributes : 
+---
+The active scene does not contain semantic annotations : activeSemanticSceneID_ = 0  
+---
+2023-01-07 08:29:16,880 Initializing task ObjectNav-v1
+[08:29:17:281693]:[Assets] ResourceManager.cpp(345)::loadSemanticSceneDescriptor : SSD File Naming Issue! Neither SceneInstanceAttributes-provided name : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.scn  nor constructed filename : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/info_semantic.json exist on disk.
+[08:29:18:520262]:[Sim] Simulator.cpp(464)::instanceStageForSceneAttributes : 
+---
+The active scene does not contain semantic annotations : activeSemanticSceneID_ = 0  
+---
+2023-01-07 08:29:19,173 distance_to_goal: 8.828277627627054
+2023-01-07 08:29:19,173 success: 0.0
+2023-01-07 08:29:19,173 spl: 0.0
+2023-01-07 08:29:19,173 softspl: 0.011444531018168773
