@@ -1,0 +1,26 @@
+2023-01-09 15:24:00,376 Initializing dataset ObjectNav-v1
+2023-01-09 15:24:00,407 initializing sim Sim-v0
+[15:24:00:525488]:[Metadata] StageAttributesManager.cpp(86)::registerObjectFinalize : Render asset template handle : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb specified in stage template with handle : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb does not correspond to any existing file or primitive render asset.  Aborting.
+Traceback (most recent call last):
+  File "agent.py", line 41, in <module>
+    main()
+  File "agent.py", line 33, in main
+    challenge = habitat.Challenge(eval_remote=False)
+  File "/habitat-lab/habitat/core/challenge.py", line 16, in __init__
+    super().__init__(config_paths, eval_remote=eval_remote)
+  File "/habitat-lab/habitat/core/benchmark.py", line 38, in __init__
+    self._env = Env(config=config_env)
+  File "/habitat-lab/habitat/core/env.py", line 108, in __init__
+    id_sim=self._config.SIMULATOR.TYPE, config=self._config.SIMULATOR
+  File "/habitat-lab/habitat/sims/registration.py", line 19, in make_sim
+    return _sim(**kwargs)
+  File "/habitat-lab/habitat/sims/habitat_simulator/habitat_simulator.py", line 271, in __init__
+    super().__init__(self.sim_config)
+  File "<attrs generated init habitat_sim.simulator.Simulator>", line 11, in __init__
+  File "/opt/conda/envs/habitat/lib/python3.7/site-packages/habitat_sim/simulator.py", line 122, in __attrs_post_init__
+    self.__set_from_config(self.config)
+  File "/opt/conda/envs/habitat/lib/python3.7/site-packages/habitat_sim/simulator.py", line 260, in __set_from_config
+    self._config_backend(config)
+  File "/opt/conda/envs/habitat/lib/python3.7/site-packages/habitat_sim/simulator.py", line 204, in _config_backend
+    super().__init__(config.sim_cfg, config.metadata_mediator)
+AssertionError: ESP_CHECK failed: Missing (at least) one of scene dataset attributes, stage attributes, or dataset scene attributes for scene 'habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb'.  Likely an invalid scene name.

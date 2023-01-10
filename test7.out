@@ -1,0 +1,216 @@
+[10:13:00:791608]:[Metadata] AttributesManagerBase.h(352)::createFromJsonOrDefaultInternal : <Dataset>: Proposing JSON name : default.scene_dataset_config.json from original name : default| This file does not exist.
+[10:13:00:791713]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (capsule3DSolid:capsule3DSolid_hemiRings_4_cylRings_1_segments_12_halfLen_0.75_useTexCoords_false_useTangents_false) created and registered.
+[10:13:00:791744]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (capsule3DWireframe:capsule3DWireframe_hemiRings_8_cylRings_1_segments_16_halfLen_1) created and registered.
+[10:13:00:791764]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (coneSolid:coneSolid_segments_12_halfLen_1.25_rings_1_useTexCoords_false_useTangents_false_capEnd_true) created and registered.
+[10:13:00:791782]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (coneWireframe:coneWireframe_segments_32_halfLen_1.25) created and registered.
+[10:13:00:791798]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (cubeSolid:cubeSolid) created and registered.
+[10:13:00:791812]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (cubeWireframe:cubeWireframe) created and registered.
+[10:13:00:791831]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (cylinderSolid:cylinderSolid_rings_1_segments_12_halfLen_1_useTexCoords_false_useTangents_false_capEnds_true) created and registered.
+[10:13:00:791847]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (cylinderWireframe:cylinderWireframe_rings_1_segments_32_halfLen_1) created and registered.
+[10:13:00:791862]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (icosphereSolid:icosphereSolid_subdivs_1) created and registered.
+[10:13:00:791877]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (icosphereWireframe:icosphereWireframe_subdivs_1) created and registered.
+[10:13:00:791893]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (uvSphereSolid:uvSphereSolid_rings_8_segments_16_useTexCoords_false_useTangents_false) created and registered.
+[10:13:00:791907]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (uvSphereWireframe:uvSphereWireframe_rings_16_segments_32) created and registered.
+[10:13:00:791918]:[Metadata] AssetAttributesManager.cpp(110)::AssetAttributesManager : Built default primitive asset templates : 12
+[10:13:00:792540]:[Metadata] SceneDatasetAttributesManager.cpp(35)::createObject : File (default) not found, so new default dataset attributes created  and registered.
+[10:13:00:792550]:[Metadata] MetadataMediator.cpp(120)::createSceneDataset : Dataset default successfully created.
+[10:13:00:792642]:[Metadata] AttributesManagerBase.h(352)::createFromJsonOrDefaultInternal : <Physics Manager>: Proposing JSON name : ./data/default.physics_config.json from original name : ./data/default.physics_config.json| This file does not exist.
+[10:13:00:792656]:[Metadata] PhysicsAttributesManager.cpp(26)::createObject : File (./data/default.physics_config.json) not found, so new default physics manager attributes created and registered.
+[10:13:00:792663]:[Metadata] MetadataMediator.cpp(210)::setActiveSceneDatasetName : Attempting to create new dataset ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json
+[10:13:00:792705]:[Metadata] AttributesManagerBase.h(352)::createFromJsonOrDefaultInternal : <Dataset>: Proposing JSON name : ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json from original name : ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json| This file does not exist.
+[10:13:00:792725]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (capsule3DSolid:capsule3DSolid_hemiRings_4_cylRings_1_segments_12_halfLen_0.75_useTexCoords_false_useTangents_false) created and registered.
+[10:13:00:792740]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (capsule3DWireframe:capsule3DWireframe_hemiRings_8_cylRings_1_segments_16_halfLen_1) created and registered.
+[10:13:00:792755]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (coneSolid:coneSolid_segments_12_halfLen_1.25_rings_1_useTexCoords_false_useTangents_false_capEnd_true) created and registered.
+[10:13:00:792768]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (coneWireframe:coneWireframe_segments_32_halfLen_1.25) created and registered.
+[10:13:00:792779]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (cubeSolid:cubeSolid) created and registered.
+[10:13:00:792790]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (cubeWireframe:cubeWireframe) created and registered.
+[10:13:00:792804]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (cylinderSolid:cylinderSolid_rings_1_segments_12_halfLen_1_useTexCoords_false_useTangents_false_capEnds_true) created and registered.
+[10:13:00:792817]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (cylinderWireframe:cylinderWireframe_rings_1_segments_32_halfLen_1) created and registered.
+[10:13:00:792830]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (icosphereSolid:icosphereSolid_subdivs_1) created and registered.
+[10:13:00:792842]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (icosphereWireframe:icosphereWireframe_subdivs_1) created and registered.
+[10:13:00:792855]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (uvSphereSolid:uvSphereSolid_rings_8_segments_16_useTexCoords_false_useTangents_false) created and registered.
+[10:13:00:792867]:[Metadata] AssetAttributesManager.cpp(121)::createObject : Asset attributes (uvSphereWireframe:uvSphereWireframe_rings_16_segments_32) created and registered.
+[10:13:00:792876]:[Metadata] AssetAttributesManager.cpp(110)::AssetAttributesManager : Built default primitive asset templates : 12
+[10:13:00:793031]:[Metadata] SceneDatasetAttributesManager.cpp(35)::createObject : File (./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json) not found, so new default dataset attributes created  and registered.
+[10:13:00:793039]:[Metadata] MetadataMediator.cpp(120)::createSceneDataset : Dataset ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json successfully created.
+[10:13:00:793046]:[Metadata] MetadataMediator.cpp(217)::setActiveSceneDatasetName : Attempt to create new dataset ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json   succeeded. Currently active dataset : ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json
+[10:13:00:793052]:[Metadata] MetadataMediator.cpp(175)::setCurrPhysicsAttributesHandle : Old physics manager attributes  changed to ./data/default.physics_config.json successfully.
+[10:13:00:793060]:[Metadata] MetadataMediator.cpp(66)::setSimulatorConfiguration : Set new simulator config for scene/stage : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb and dataset : ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json which is currently active dataset.
+[10:13:00:877282]:[Metadata] MetadataMediator.cpp(297)::getSceneInstanceAttributesByName : Dataset : ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json has no preloaded SceneInstanceAttributes or StageAttributes named : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb so loading/creating a new StageAttributes with this name, and then creating a SceneInstanceAttributes with the same name that references this stage.
+[10:13:00:877317]:[Metadata] AttributesManagerBase.h(352)::createFromJsonOrDefaultInternal : <Stage Template>: Proposing JSON name : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.stage_config.json from original name : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb| This file does not exist.
+[10:13:00:877397]:[Metadata] AbstractObjectAttributesManagerBase.h(211)::createObject : File (habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb) exists but is not a recognized config filename extension, so new default Stage Template attributes created and registered.
+[10:13:00:877434]:[Metadata] SceneDatasetAttributes.cpp(47)::addNewSceneInstanceToDataset : Dataset : 'hm3d_annotated_basis' : Stage Attributes 'habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb' specified in Scene Attributes exists in dataset library.
+[10:13:00:877441]:[Metadata] SceneDatasetAttributes.cpp(84)::addNewSceneInstanceToDataset : Dataset : 'hm3d_annotated_basis' : Lighting Layout Attributes 'no_lights' specified in Scene Attributes but does not exist in dataset, so creating.
+[10:13:00:877638]:[Metadata] AttributesManagerBase.h(352)::createFromJsonOrDefaultInternal : <Lighting Layout>: Proposing JSON name : no_lights.lighting_config.json from original name : no_lights| This file does not exist.
+[10:13:00:877821]:[Metadata] LightLayoutAttributesManager.cpp(36)::createObject : File (no_lights) not found, so new default light layout attributes created and registered.
+[10:13:00:877833]:[Sim] Simulator.cpp(236)::createSceneInstance : Navmesh file location in scene instance : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.navmesh
+[10:13:00:877849]:[Sim] Simulator.cpp(241)::createSceneInstance : Loading navmesh from habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.navmesh
+[10:13:00:877954]:[Sim] Simulator.cpp(243)::createSceneInstance : Navmesh Loaded.
+[10:13:00:877970]:[Scene] SceneGraph.h(85)::createDrawableGroup : Created DrawableGroup: 
+[10:13:00:877978]:[Assets] ResourceManager.cpp(298)::loadSemanticSceneDescriptor : SceneInstance : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb proposed Semantic Scene Descriptor filename : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.scn
+[10:13:00:878020]:[Assets] ResourceManager.cpp(1647)::ConfigureImporterManagerGLExtensions : Importing Basis files as BC7.
+[10:13:00:878200]:[Sim] Simulator.cpp(301)::createSceneInstance : Using scene instance-specified Light key : - no_lights -
+[10:13:00:878213]:[Metadata] MetadataMediator.cpp(66)::setSimulatorConfiguration : Set new simulator config for scene/stage : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb and dataset : ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json which is currently active dataset.
+[10:13:00:878229]:[Sim] Simulator.cpp(405)::instanceStageForSceneAttributes : Start to load stage named : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb with render asset : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb and collision asset : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb
+[10:13:00:878264]:[Assets] ResourceManager.cpp(689)::createStageAssetInfosFromAttributes : Frame :{"up":[0,0,1],"front":[0,1,0],"origin":[0,0,0]} for render mesh named : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb|No Semantic asset info specified.
+[10:13:00:878271]:[Assets] ResourceManager.cpp(473)::loadStage : Not loading semantic mesh
+[10:13:00:878278]:[Assets] ResourceManager.cpp(507)::loadStage : Start load render asset habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb .
+[10:13:00:878284]:[Assets] ResourceManager.cpp(970)::loadStageInternal : Attempting to load stage habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb 
+[10:13:00:878295]:[Assets] ResourceManager.cpp(853)::loadRenderAsset : Loading general asset named: habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb
+[10:13:00:878302]:[Assets] ResourceManager.cpp(1647)::ConfigureImporterManagerGLExtensions : Importing Basis files as BC7.
+[10:13:02:850466]:[Assets] ResourceManager.cpp(2081)::loadMaterials : Building 65 materials for asset named 'wcojb4TFT35.basis.glb' : 
+[10:13:02:850538]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 00:Flat.
+[10:13:02:850550]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 01:Flat.
+[10:13:02:850558]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 02:Flat.
+[10:13:02:850565]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 03:Flat.
+[10:13:02:850572]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 04:Flat.
+[10:13:02:850580]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 05:Flat.
+[10:13:02:850588]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 06:Flat.
+[10:13:02:850596]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 07:Flat.
+[10:13:02:850605]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 08:Flat.
+[10:13:02:850613]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 09:Flat.
+[10:13:02:850622]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 10:Flat.
+[10:13:02:850632]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 11:Flat.
+[10:13:02:850641]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 12:Flat.
+[10:13:02:850648]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 13:Flat.
+[10:13:02:850656]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 14:Flat.
+[10:13:02:850665]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 15:Flat.
+[10:13:02:850673]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 16:Flat.
+[10:13:02:850681]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 17:Flat.
+[10:13:02:850689]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 18:Flat.
+[10:13:02:850697]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 19:Flat.
+[10:13:02:850706]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 20:Flat.
+[10:13:02:850714]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 21:Flat.
+[10:13:02:850722]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 22:Flat.
+[10:13:02:850729]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 23:Flat.
+[10:13:02:850738]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 24:Flat.
+[10:13:02:850746]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 25:Flat.
+[10:13:02:850755]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 26:Flat.
+[10:13:02:850765]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 27:Flat.
+[10:13:02:850773]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 28:Flat.
+[10:13:02:850781]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 29:Flat.
+[10:13:02:850789]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 30:Flat.
+[10:13:02:850797]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 31:Flat.
+[10:13:02:850806]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 32:Flat.
+[10:13:02:850814]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 33:Flat.
+[10:13:02:850823]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 34:Flat.
+[10:13:02:850832]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 35:Flat.
+[10:13:02:850840]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 36:Flat.
+[10:13:02:850849]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 37:Flat.
+[10:13:02:850857]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 38:Flat.
+[10:13:02:850865]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 39:Flat.
+[10:13:02:850874]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 40:Flat.
+[10:13:02:850883]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 41:Flat.
+[10:13:02:850891]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 42:Flat.
+[10:13:02:850900]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 43:Flat.
+[10:13:02:850908]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 44:Flat.
+[10:13:02:850916]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 45:Flat.
+[10:13:02:850924]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 46:Flat.
+[10:13:02:850932]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 47:Flat.
+[10:13:02:850940]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 48:Flat.
+[10:13:02:850948]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 49:Flat.
+[10:13:02:850957]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 50:Flat.
+[10:13:02:850965]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 51:Flat.
+[10:13:02:850974]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 52:Flat.
+[10:13:02:850982]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 53:Flat.
+[10:13:02:850991]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 54:Flat.
+[10:13:02:851000]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 55:Flat.
+[10:13:02:851008]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 56:Flat.
+[10:13:02:851017]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 57:Flat.
+[10:13:02:851024]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 58:Flat.
+[10:13:02:851033]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 59:Flat.
+[10:13:02:851041]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 60:Flat.
+[10:13:02:851049]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 61:Flat.
+[10:13:02:851057]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 62:Flat.
+[10:13:02:851065]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 63:Flat.
+[10:13:02:851073]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 64:Flat.
+[10:13:03:043840]:[Sim] Simulator.cpp(432)::instanceStageForSceneAttributes : Successfully loaded stage named : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb
+[10:13:03:043934]:[Sim] Simulator.cpp(204)::reconfigure : CreateSceneInstance success == true for active scene name : habitat-challenge-data/data/scene_datasets/hm3d/val/00802-wcojb4TFT35/wcojb4TFT35.basis.glb  with renderer.
+[10:13:03:059963]:[Nav] PathFinder.cpp(386)::build : Building navmesh with 215 x 415 cells
+[10:13:03:219286]:[Nav] PathFinder.cpp(656)::build : Created navmesh with 571 vertices 289 polygons
+[10:13:03:219353]:[Sim] Simulator.cpp(920)::recomputeNavMesh : reconstruct navmesh successful
+[10:13:03:611412]:[Physics] PhysicsManager.cpp(50)::~PhysicsManager : Deconstructing PhysicsManager
+[10:13:03:611493]:[Scene] SceneManager.h(25)::~SceneManager : Deconstructing SceneManager
+[10:13:03:611500]:[Scene] SceneGraph.h(25)::~SceneGraph : Deconstructing SceneGraph
+[10:13:03:611912]:[Sensor] Sensor.cpp(69)::~Sensor : Deconstructing Sensor
+[10:13:03:612077]:[Sensor] Sensor.cpp(69)::~Sensor : Deconstructing Sensor
+[10:13:03:612125]:[Scene] SemanticScene.h(47)::~SemanticScene : Deconstructing SemanticScene
+[10:13:03:615182]:[Gfx] Renderer.cpp(72)::~Impl : Deconstructing Renderer
+[10:13:03:615197]:[Gfx] WindowlessContext.h(17)::~WindowlessContext : Deconstructing WindowlessContext
+[10:13:03:622196]:[Metadata] MetadataMediator.cpp(66)::setSimulatorConfiguration : Set new simulator config for scene/stage : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb and dataset : ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json which is currently active dataset.
+[10:13:03:625581]:[Metadata] MetadataMediator.cpp(297)::getSceneInstanceAttributesByName : Dataset : ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json has no preloaded SceneInstanceAttributes or StageAttributes named : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb so loading/creating a new StageAttributes with this name, and then creating a SceneInstanceAttributes with the same name that references this stage.
+[10:13:03:625601]:[Metadata] AttributesManagerBase.h(352)::createFromJsonOrDefaultInternal : <Stage Template>: Proposing JSON name : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.stage_config.json from original name : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb| This file does not exist.
+[10:13:03:625676]:[Metadata] AbstractObjectAttributesManagerBase.h(211)::createObject : File (habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb) exists but is not a recognized config filename extension, so new default Stage Template attributes created and registered.
+[10:13:03:625711]:[Metadata] SceneDatasetAttributes.cpp(47)::addNewSceneInstanceToDataset : Dataset : 'hm3d_annotated_basis' : Stage Attributes 'habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb' specified in Scene Attributes exists in dataset library.
+[10:13:03:625719]:[Metadata] SceneDatasetAttributes.cpp(90)::addNewSceneInstanceToDataset : Dataset : 'hm3d_annotated_basis' :  Lighting Layout Attributes no_lights specified in Scene Attributes exists in dataset library.
+[10:13:03:625728]:[Sim] Simulator.cpp(236)::createSceneInstance : Navmesh file location in scene instance : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.navmesh
+[10:13:03:625738]:[Sim] Simulator.cpp(241)::createSceneInstance : Loading navmesh from habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.navmesh
+[10:13:03:625825]:[Sim] Simulator.cpp(243)::createSceneInstance : Navmesh Loaded.
+[10:13:03:625837]:[Scene] SceneGraph.h(85)::createDrawableGroup : Created DrawableGroup: 
+[10:13:03:625844]:[Assets] ResourceManager.cpp(298)::loadSemanticSceneDescriptor : SceneInstance : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb proposed Semantic Scene Descriptor filename : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.scn
+[10:13:03:625884]:[Assets] ResourceManager.cpp(1647)::ConfigureImporterManagerGLExtensions : Importing Basis files as BC7.
+[10:13:03:626120]:[Sim] Simulator.cpp(301)::createSceneInstance : Using scene instance-specified Light key : - no_lights -
+[10:13:03:626131]:[Metadata] MetadataMediator.cpp(66)::setSimulatorConfiguration : Set new simulator config for scene/stage : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb and dataset : ./data/scene_datasets/hm3d/hm3d_annotated_basis.scene_dataset_config.json which is currently active dataset.
+[10:13:03:626148]:[Sim] Simulator.cpp(405)::instanceStageForSceneAttributes : Start to load stage named : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb with render asset : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb and collision asset : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb
+[10:13:03:626177]:[Assets] ResourceManager.cpp(689)::createStageAssetInfosFromAttributes : Frame :{"up":[0,0,1],"front":[0,1,0],"origin":[0,0,0]} for render mesh named : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb|No Semantic asset info specified.
+[10:13:03:626184]:[Assets] ResourceManager.cpp(473)::loadStage : Not loading semantic mesh
+[10:13:03:626191]:[Assets] ResourceManager.cpp(507)::loadStage : Start load render asset habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb .
+[10:13:03:626197]:[Assets] ResourceManager.cpp(970)::loadStageInternal : Attempting to load stage habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb 
+[10:13:03:626207]:[Assets] ResourceManager.cpp(853)::loadRenderAsset : Loading general asset named: habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb
+[10:13:03:626213]:[Assets] ResourceManager.cpp(1647)::ConfigureImporterManagerGLExtensions : Importing Basis files as BC7.
+[10:13:04:749005]:[Assets] ResourceManager.cpp(2081)::loadMaterials : Building 41 materials for asset named 'TEEsavR23oF.basis.glb' : 
+[10:13:04:749070]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 00:Flat.
+[10:13:04:749080]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 01:Flat.
+[10:13:04:749089]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 02:Flat.
+[10:13:04:749098]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 03:Flat.
+[10:13:04:749107]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 04:Flat.
+[10:13:04:749115]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 05:Flat.
+[10:13:04:749124]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 06:Flat.
+[10:13:04:749132]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 07:Flat.
+[10:13:04:749140]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 08:Flat.
+[10:13:04:749148]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 09:Flat.
+[10:13:04:749156]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 10:Flat.
+[10:13:04:749167]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 11:Flat.
+[10:13:04:749175]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 12:Flat.
+[10:13:04:749183]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 13:Flat.
+[10:13:04:749191]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 14:Flat.
+[10:13:04:749199]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 15:Flat.
+[10:13:04:749207]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 16:Flat.
+[10:13:04:749215]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 17:Flat.
+[10:13:04:749223]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 18:Flat.
+[10:13:04:749232]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 19:Flat.
+[10:13:04:749240]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 20:Flat.
+[10:13:04:749248]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 21:Flat.
+[10:13:04:749256]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 22:Flat.
+[10:13:04:749265]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 23:Flat.
+[10:13:04:749273]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 24:Flat.
+[10:13:04:749280]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 25:Flat.
+[10:13:04:749289]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 26:Flat.
+[10:13:04:749297]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 27:Flat.
+[10:13:04:749305]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 28:Flat.
+[10:13:04:749313]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 29:Flat.
+[10:13:04:749321]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 30:Flat.
+[10:13:04:749330]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 31:Flat.
+[10:13:04:749338]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 32:Flat.
+[10:13:04:749346]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 33:Flat.
+[10:13:04:749355]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 34:Flat.
+[10:13:04:749363]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 35:Flat.
+[10:13:04:749371]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 36:Flat.
+[10:13:04:749379]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 37:Flat.
+[10:13:04:749387]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 38:Flat.
+[10:13:04:749395]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 39:Flat.
+[10:13:04:749403]:[Assets] ResourceManager.cpp(2186)::loadMaterials : Idx 40:Flat.
+[10:13:04:859199]:[Sim] Simulator.cpp(432)::instanceStageForSceneAttributes : Successfully loaded stage named : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb
+[10:13:04:859296]:[Sim] Simulator.cpp(204)::reconfigure : CreateSceneInstance success == true for active scene name : habitat-challenge-data/data/scene_datasets/hm3d/val/00800-TEEsavR23oF/TEEsavR23oF.basis.glb  with renderer.
+[10:13:04:870052]:[Nav] PathFinder.cpp(386)::build : Building navmesh with 332 x 223 cells
+[10:13:04:983120]:[Nav] PathFinder.cpp(656)::build : Created navmesh with 344 vertices 168 polygons
+[10:13:04:983166]:[Sim] Simulator.cpp(920)::recomputeNavMesh : reconstruct navmesh successful
+[10:13:05:486864]:[Physics] PhysicsManager.cpp(50)::~PhysicsManager : Deconstructing PhysicsManager
+[10:13:05:486949]:[Scene] SceneManager.h(25)::~SceneManager : Deconstructing SceneManager
+[10:13:05:486957]:[Scene] SceneGraph.h(25)::~SceneGraph : Deconstructing SceneGraph
+[10:13:05:487413]:[Sensor] Sensor.cpp(69)::~Sensor : Deconstructing Sensor
+[10:13:05:487903]:[Sensor] Sensor.cpp(69)::~Sensor : Deconstructing Sensor
+[10:13:05:487943]:[Scene] SemanticScene.h(47)::~SemanticScene : Deconstructing SemanticScene
+[10:13:05:489269]:[Gfx] Renderer.cpp(72)::~Impl : Deconstructing Renderer
+[10:13:05:489282]:[Gfx] WindowlessContext.h(17)::~WindowlessContext : Deconstructing WindowlessContext
+[10:13:05:492931]:[Sim] Simulator.cpp(65)::~Simulator : Deconstructing Simulator
